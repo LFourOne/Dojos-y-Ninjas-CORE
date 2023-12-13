@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.section-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 400px;
+}
+.dojolist-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 2px solid black;
+}
+.ninja-a{
+    margin-top: 50px;
+}
